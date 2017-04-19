@@ -15,6 +15,7 @@ pypiwin32</br>
 Python version:2.7.13</br>
 Pythonnet version:2.3.0</br>
 FiddlerCore 4.6.20171.13571</br>
+Win7 32bit and xp sp3 with .net 4 </br>
 
 - Thanks:</br>
 http://www.telerik.com/blogs/understanding-fiddler-certificate-generators </br>
